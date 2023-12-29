@@ -16,7 +16,7 @@ This project is a secure password generator built in PHP, designed to help users
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/Xedicus/password-generator.git
     cd password-generator
     ```
 
